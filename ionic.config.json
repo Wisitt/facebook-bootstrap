@@ -1,0 +1,8 @@
+{
+  "name": "facebook-bootstrap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "70c367e7"
+}
